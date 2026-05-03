@@ -16,7 +16,7 @@ const developer = {
 - 🧠 Currently deep-diving into **Advanced Computer Vision** and **System Design**.
 - 🛠️ Building **SmartFinance**, a full-stack expense analyzer.
 - 💬 Ask me about **YOLOv8, React, or Node.js**.
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/your-linkedin-handle)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/ankit-kumar-821003327/) | [Instagram](https://www.instagram.com/broankitcode/)
 
 ---
 
