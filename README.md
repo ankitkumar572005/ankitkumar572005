@@ -5,6 +5,7 @@ const developer = {
   name: "ANKIT KUMAR",
   role: "CS AI/ML Undergraduate | Full-Stack Engineer",
   focus: ["Real-time AI Vision", "Scalable Web Architectures", "RAG Systems"],
+  portfolio: "https://github.com/ankitkumar572005",
   motto: "Engineering solutions that bridge AI and Reality.",
   location: "India"
 };
