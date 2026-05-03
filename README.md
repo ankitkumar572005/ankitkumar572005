@@ -45,6 +45,17 @@ const developer = {
 
 ---
 
+### 🔥 OPEN SOURCE CONTRIBUTIONS
+
+| Repository | Status | Impact |
+| :--- | :--- | :--- |
+| **npm/node-semver** | ✅ Merged | [Contributed core documentation fixes](https://github.com/npm/node-semver/pull/735) |
+| **AyushAnand-28/ChurnSight** | ✅ Merged | [Implemented AI feature engineering logic](https://github.com/AyushAnand-28/ChurnSight/pull/11) |
+| **facebook/react-native** | ⏳ In Review | [Improving mobile framework documentation](https://github.com/facebook/react-native/pull/56280) |
+| **vuejs/vue** | ⏳ In Review | [Enhancing Vue 2 core documentation](https://github.com/vuejs/vue/pull/13330) |
+
+---
+
 ### 🛠️ TECHNICAL ARSENAL
 
 | Category | Technologies |
